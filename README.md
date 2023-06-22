@@ -1,4 +1,4 @@
-# The Search for a New Model for Studying the nature of DM #
+# The Search for a New Model for Studying the Nature of DM #
 
 Dark matter(DM), an elusive form of matter that does not interact with
 light, presents a significant challenge to scientists seeking to unravel its 
